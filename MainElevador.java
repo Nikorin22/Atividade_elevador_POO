@@ -14,7 +14,5 @@ public class MainElevador {
                 elevador.DescerAndar();
 
                 elevador.AbrirPorta();
-                elevador.mostrarEstadoPorta();
-
     }
 }
