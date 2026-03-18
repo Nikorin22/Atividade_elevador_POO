@@ -56,12 +56,4 @@ public class Elevador {
     public void Mostrarandar() {
         System.out.println("Andar atual: " + andarAtual);
     }
-
-    public void mostrarEstadoPorta() {
-        if (Aberto_fechado) {
-            System.out.println("A porta está aberta.");
-        } else {
-            System.out.println("A porta está fechada.");
-        }
-    }
 }
